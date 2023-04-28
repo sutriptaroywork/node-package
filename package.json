@@ -1,5 +1,5 @@
 {
-  "name": "is-sutripta",
+  "name": "@sutripta/is-sutripta",
   "version": "1.0.0",
   "description": "is the string sutripta",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sutriptaroywork/node-package/issues"
   },
-  "homepage": "https://github.com/sutriptaroywork/node-package#readme"
+  "homepage": "https://github.com/sutriptaroywork/node-package#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
